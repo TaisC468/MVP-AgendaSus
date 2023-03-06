@@ -1,7 +1,7 @@
 
 <h1 align="center">MVP-Agenda SUS 🏥 </h1>
 
-
+<p> Projeto utilizando back-end e front-end. Oprojeto tem o tema voltado para a saúde, onde o paciente poderá agendar a sua consulta online.  </p>
 
 <h3> Dependências para iniciar o projeto: </h3>
 
